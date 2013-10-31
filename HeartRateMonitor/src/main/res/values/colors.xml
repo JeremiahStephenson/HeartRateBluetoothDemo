@@ -1,0 +1,7 @@
+<resources>
+
+    <color name="grey_background">#7f828586</color>
+    <color name="heart_beat_red">#64ff0000</color>
+    <color name="really_dark_grey">#303030</color>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Heart Rate Monitor</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_scan">Scan</string>
+    <string name="action_stop">Stop</string>
+
+    <string name="looking_for_monitor">Looking for heart rate monitor&#8230;</string>
+    <string name="needs_bluetooth_title">Bluetooth is turned off.</string>
+
+    <integer name="heart_beat_minimum">90</integer>
+    <string name="beats_per_minute_short">bpm</string>
+
+    <string name="needs_bluetooth">The app would like to turn it on for accessories that require a bluetooth connection.</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
