@@ -225,7 +225,7 @@ public class HeartRateFragment extends Fragment {
             final int bpm = mHeartRateProvider.getBpm();
             if (bpm > -1) {
                 getActivity().setProgressBarIndeterminateVisibility(false);
-                mBpm.setText(String.valueOf(bpm));
+                mBpm.setText(getString(R.string.bpm, bpm));
 
                 if (bpm > 0) {
 
