@@ -6,6 +6,8 @@ import android.app.FragmentManager;
 import android.os.Bundle;
 import android.support.v13.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.view.Window;
 
 import com.rain.android.heartratemonitor.fragments.HeartRateFragment;
